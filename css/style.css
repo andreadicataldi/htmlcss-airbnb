@@ -3,6 +3,7 @@
   width: 500px;
   margin: 10px;
   position: relative;
+  box-shadow: 3px 3px #808080;
 }
 
 .image {
@@ -31,4 +32,5 @@
   color: white;
   font-size: 2em;
   text-shadow: 2px 2px #000000;
+  font-family: arial, helvetica, sans-serif;
 }
