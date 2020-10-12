@@ -1,7 +1,7 @@
 .box {
-  height: 100px;
-  width: 150px;
-  margin: 1%;
+  height: 300px;
+  width: 500px;
+  margin: 10px;
   position: relative;
 }
 
@@ -27,4 +27,8 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+  text-transform: uppercase;
+  color: white;
+  font-size: 2em;
+  text-shadow: 2px 2px #000000;
 }
